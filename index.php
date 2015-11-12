@@ -1,1 +1,6 @@
-Hello World
+<?php
+    include 'config.php';
+    echo $result;
+?>
+
+
